@@ -1,0 +1,20 @@
+nature	tree, sun, moon, rain, river, sea, sand, rock, grass, sky
+colors	red, blue, green, yellow, black, white, pink, brown, orange, gray
+animals	dog, cat, bird, fish, cow, horse, lion, tiger, sheep, monkey
+food	bread, rice, milk, water, apple, orange, egg, meat, cheese, cake
+emotions	happy, sad, angry, tired, calm, scared, excited, bored, confused, proud
+body parts	hand, foot, head, eye, ear, nose, mouth, leg, arm, finger
+actions	run, walk, eat, drink, sleep, sit, stand, jump, swim, write
+clothing	shirt, pants, hat, shoes, socks, dress, jacket, scarf, belt, gloves
+household	bed, chair, table, clock, door, window, lamp, fan, tv, mirror
+transportation	car, bus, train, bike, plane, boat, truck, scooter, taxi, subway
+weather	sun, rain, snow, wind, hot, cold, storm, cloud, fog, thunder
+school	book, pen, paper, bag, desk, board, map, ruler, pencil, eraser
+technology	computer, phone, tv, keyboard, mouse, tablet, internet, camera, charger, light
+numbers	one, two, three, four, five, six, seven, eight, nine, ten
+days	monday, tuesday, wednesday, thursday, friday, saturday, sunday
+time	day, night, hour, minute, morning, evening, week, month, year, second
+jobs	teacher, doctor, nurse, driver, farmer, artist, chef, pilot, worker, writer
+places	home, school, park, city, village, shop, market, street, room, garden
+objects	ball, box, bag, key, book, pen, toy, gift, coin, watch
+Fruits	apple, banana, orange, grape, pear, cherry, fig, kiwi, watermelon, blueberry
