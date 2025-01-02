@@ -1,0 +1,137 @@
+
+Category: body parts
+Word: ____
+Used letters: 
+Remaining tries: 6
+Enter a letter: l
+
+Category: body parts
+Word: ____
+Used letters: ا
+Remaining tries: 5
+Enter a letter: d
+
+Category: body parts
+Word: ___d
+Used letters: ا, d
+Remaining tries: 5
+Enter a letter: f
+
+Category: body parts
+Word: ___d
+Used letters: ا, d, f
+Remaining tries: 4
+Enter a letter: k
+
+Category: body parts
+Word: ___d
+Used letters: ا, d, f, k
+Remaining tries: 3
+Enter a letter: w
+
+Category: body parts
+Word: ___d
+Used letters: ا, d, f, k, w
+Remaining tries: 2
+Enter a letter: i
+
+Category: body parts
+Word: ___d
+Used letters: ا, d, f, k, w, i
+Remaining tries: 1
+Enter a letter: d
+Please enter a valid unused letter
+
+Category: body parts
+Word: ___d
+Used letters: ا, d, f, k, w, i
+Remaining tries: 1
+Enter a letter: h
+
+Category: body parts
+Word: h__d
+Used letters: ا, d, f, k, w, i, h
+Remaining tries: 1
+Enter a letter: e
+
+Category: body parts
+Word: he_d
+Used letters: ا, d, f, k, w, i, h, e
+Remaining tries: 1
+Enter a letter: a
+
+Congratulations! You won! The word was: head
+Do you want to play again? (yes/no): yes
+
+Category: school
+Word: _____
+Used letters:
+Remaining tries: 6
+Enter a letter: s 
+
+Category: school
+Word: _____
+Used letters: s
+Remaining tries: 5
+Enter a letter: g
+
+Category: school
+Word: _____
+Used letters: s, g
+Remaining tries: 4
+Enter a letter: i
+
+Category: school
+Word: _____
+Used letters: s, g, i
+Remaining tries: 3
+Enter a letter: l
+
+Category: school
+Word: __l__
+Used letters: s, g, i, l
+Remaining tries: 3
+Enter a letter: r
+
+Category: school
+Word: r_l_r
+Used letters: s, g, i, l, r
+Remaining tries: 3
+Enter a letter: m
+
+Category: school
+Word: r_l_r
+Used letters: s, g, i, l, r, m
+Remaining tries: 2
+Enter a letter: e
+
+Category: school
+Word: r_ler
+Used letters: s, g, i, l, r, m, e
+Remaining tries: 2
+Enter a letter: i
+Please enter a valid unused letter
+
+Category: school
+Word: r_ler
+Used letters: s, g, i, l, r, m, e
+Remaining tries: 2
+Enter a letter: s
+Please enter a valid unused letter
+
+Category: school
+Word: r_ler
+Used letters: s, g, i, l, r, m, e
+Remaining tries: 2
+Enter a letter: t
+
+Category: school
+Word: r_ler
+Used letters: s, g, i, l, r, m, e, t
+Remaining tries: 1
+Enter a letter: v
+
+Game Over! The word was: ruler
+Do you want to play again? (yes/no): no
+Thanks for playing Hangman! Goodbye!
+
