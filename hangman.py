@@ -81,7 +81,7 @@ class Hangman:
                     print("Please enter a valid unused letter")
             if self.remaining_tries == 0:
                 print(f"\nGame Over! The word was: {self.word}")
-            self.plot_results()  # عرض الرسم البياني دائمًا بعد نهاية الجولة
+            self.plot_results()  
             play_again = input("Do you want to play again? (yes/no): ").strip().lower()
             if play_again != 'yes':
                 print("Thanks for playing Hangman! Goodbye!")
