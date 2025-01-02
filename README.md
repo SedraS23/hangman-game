@@ -1,2 +1,3 @@
-# hangman-game
-Python project
+hangman-game (Python project) 
+
+
