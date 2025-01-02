@@ -199,11 +199,13 @@ def play(self):
             
                 print(f"\nGame Over! The word was: {self.word}")اذا خلص عدد المحاولات بيطبعها
                 
-            self.plot_results()  احصائية
+            
             
             play_again = input("Do you want to play again? (yes/no): ").strip().lower() 
             
             يسأل اللاعب اذا بده يكمل لعب او لا واذا كتب اي شئ غير YES  بيطبعله الجملة الي بالاسفل
+            self.plot_results()  احصائية
+
             
             if play_again != 'yes':
             
