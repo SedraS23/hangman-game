@@ -81,8 +81,8 @@ class Hangman:
                     print("Please enter a valid unused letter")
             if self.remaining_tries == 0:
                 print(f"\nGame Over! The word was: {self.word}")
-            self.plot_results()  
             play_again = input("Do you want to play again? (yes/no): ").strip().lower()
+            self.plot_results() 
             if play_again != 'yes':
                 print("Thanks for playing Hangman! Goodbye!")
                 break
@@ -101,4 +101,4 @@ filename_new = "newfile.txt"
 game = Hangman(filename_old, filename_new)
 game.add_category("Fruits", ["apple", "banana", "orange", "grape", "pear", "cherry", "fig", "kiwi", "watermelon", "blueberry"])
 game.save_to_new_file()
-game.play()
+game.play() 
